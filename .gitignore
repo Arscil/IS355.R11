@@ -1,0 +1,19 @@
+node_modules/
+.env
+cache/
+artifacts/
+coverage/
+coverage.json
+typechain-types/
+__pycache__/
+.venv/
+*.pyc
+deployments/localhost.json
+deployments/hardhat.json
+deployments/localhost-demo.json
+deployments/hardhat-demo.json
+
+# Khóa RSA: private key không bao giờ commit
+keys/*_private.pem
+.pytest_cache/
+.ipfs_cache/
