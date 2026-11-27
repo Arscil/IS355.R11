@@ -1,0 +1,6 @@
+cryptography>=46
+web3>=7
+requests>=2.32
+python-dotenv>=1.0
+streamlit>=1.40
+pytest>=8
